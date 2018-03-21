@@ -1,0 +1,13 @@
+2018-Mar-21 14:13:04.588592 INFO [simplewallet] BoludoCoin wallet v1.1.1.1()
+2018-Mar-21 14:13:09.102827 ERROR [simplewallet] Failed to initialize wallet
+2018-Mar-21 14:21:02.986011 INFO [simplewallet] BoludoCoin wallet v1.1.1.1()
+2018-Mar-21 14:21:11.390379 INFO [simplewallet] Generated new wallet: bxdeaLJKQD2R6XzgrVRoB4Gg7UcdMBYGr3ZJVepsoCkVS7rt8UpvBCeLixYyNXoJJSE77JwiAq8KKcQETb3ZTjid2vobB9GEr
+2018-Mar-21 14:21:11.390379 INFO [simplewallet] view key: 138aa9618f107abed2ebc5324232848538735532102bbf44b21c6eb56563da09
+2018-Mar-21 14:21:11.390657 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Mar-21 14:21:40.976005 INFO [simplewallet] Wallet closed
